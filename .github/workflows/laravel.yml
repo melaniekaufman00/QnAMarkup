@@ -1,0 +1,176 @@
+Q(state): Click on the state for which you'd like to see the relevant case law regarding Landlord Liens (listed alphabetically).
+A: Alabama
+	Q(1.1):GOTO:Alabama
+A: Alaska
+	Q(1.2):GOTO:Alaska
+A: Arizona
+	Q(1.3):GOTO:Arizona
+A: Arkansas
+	Q(1.4):GOTO:Arkansas
+A: California
+	Q(1.5):GOTO:California
+A: Colorado
+	Q(1.6):GOTO:Colorado
+A: Connecticut
+	Q(1.7):GOTO:Connecticut
+A: Delaware
+	Q(1.8):GOTO:Delaware
+A: Show me next set.
+	Q(1.9):GOTO:Nextset
+Q(Alabama): Dixon, 220 Ala. 625 (1930) (providing lien attaches as soon as goods brought on premises).
+Q(Alaska): No statutory lien in this state. No relevant case law at the moment. Don't forget to check back.
+Q(Arizona):(1) Ex-Cell-O-Corp, 158 Ariz. 307 (1988) (LL lien attaches when goods brought on premises); (2) Childers, 731 P.2d 1239 (1986) (Lien extends to property of tenant's sublessee despite absence of formal sublease).
+Q(Arkansas):Herringer, 315 Ark. 218 (1993) (LL's Lien on tenant's abandoned property is subordinate to PMSI arising simultaneously or after LL's lien attached).	
+Q(California): No statutory lien in this state - Gruber, 13 Cal. 2d 144 (1939) ("it is definitely settled in this state that a landlord has no lien on the tenant's property for unpaid rent")
+Q(Colorado): No statutory lien in this state - Morrison, 16 Colo. App. 449 (1901) (Apartment Keeper lien does not include commercial properties). 
+Q(Connecticut): No statutory lien in this state - South Main Street, 2002 Conn. Super. LEXIS 4064 (2002) (stating that CT is among states with no statutory landlord lien).
+Q(Delaware): (1)  Ford, 14 Del. 179 (1890) (impliedly* holding that, under substantially similar precursor to §6103, LL's preference for one year's rent on tenant's property after execution sale had priority over chattel mortgage created before tenant moved onto premises).;(2) Mitchell (defining ""execution, attachment, or sequestration,"" under a substantially similar precursor to § 6103 as any and ""all the means or process [including distress] by which creditors can proceed against goods and chattels of a tenant on the demised premises to enforce payment of their demands""); (3) Ellegood, 31 Del. 529 (1921) (LL Lien n/a if no tenancy exists when goods seized)."
+Q(Nextset): Click on the relevant state.
+A: Florida
+	Q(10.1):GOTO:Florida
+A: Georgia
+	Q(10.2):GOTO:Georgia
+A: Hawaii
+	Q(10.3):GOTO:Hawaii
+A: Idaho
+	Q(10.4):GOTO:Idaho
+A: Illinois
+	Q(10.5):GOTO:Illinois
+A: Indiana
+	Q(10.6):GOTO:Indiana
+A: Iowa
+	Q(10.7):GOTO:Iowa
+A:Kansas
+	Q(10.8):GOTO:Kansas
+A: Show me next set.
+	Q(10.9):GOTO:Nextnextset
+Q(Florida): (1) Sachs, 464 So. 2d 597 (1985) (LL Lien on restaurant equipment was superior to PMSI perfected after commencement of tenancy). Beason-Simons, 662 So. 2d 1317 (1995) (LL Lien automatically perfects at commencement of tenancy or when property brought onto premises); (2)Flowers, 556 So. 2d 1123 (1989) (LL Lien not perpetual, rather it only endures as long as underlying lease exists. once tenant's obligations are met, inferior liens ripen into superior interests)."
+Q(Georgia): JB Withers, 196 Ga. 41 (1943) (LL general lien arises by law, but needs distress warrant to perfect).
+Q(Hawaii): No statutory landlord lien in this state - (1)Wunderberg, 9 Haw. 203 (1888) (interpreting prior statute giving LL right to distrain tenant's property for rent as not creating a specific lien, but rather as giving LL priority over simple execution);(2) Chong, 7 Haw. 376 (1888) (LL's claim for rent not entitled to preference in bankruptcy proceeding).
+Q(Idaho): No statutory landlord lien in this state - In re Gesas, 9 Cir., 1906, 146 F. 734, (Banker's Lien limited to property taken by banker in ordinary course of business, does not create a lien on merchandise transferred to bank or a preference in bankruptcy).
+Q(Illinois): (1) First State Bank, 175 Ill. App. 3d 812 (1988) (LL Lien on tenant's property requires distress warrant, attaches upon actual seizure); (2) Dwyer, 117 Ill. App. 3d 1001 (1983) (LL crop lien had priority over bank's security interest in crops; UCC does not diminish paramount nature of LL crop lien).
+Q(Indiana): No statutory landlord lien in this state - Robinson, 738 N.E.2d 278 (2000) (LL has no claim on personal property of tenant merely b/c of  LL-tenant relationship).
+Q(Iowa): (1) Agriliance, 272 F.Supp.2d 800 (2003) (perfected LL Lien had priority over SL's perfected interest in crop proceeds); (2) Sauder, 592 N.W.2d 695 (1999) (LL has action for conversion vs any purchaser of crops even if not know of LL Lien, purchaser is constructive trustee for LL if did have knowledge).
+Q(Kansas): No statutory landlord lien in this state - Roberts, 38 B.R. 128 (1984) (LL Crop Lien not entitled to super-priority under 9- 302 because 9-104b specifically excludes them from UCC coverage).
+Q(Nextnextset): Click on the relevant state.
+A: Kentucky
+	Q(19.1):GOTO:Kentucky
+A: Louisiana
+	Q(19.2):GOTO:Louisiana
+A: Maine
+	Q(19.3):GOTO:Maine
+A: Maryland
+	Q(19.4):GOTO:Maryland
+A: Massachusetts
+	Q(19.5):GOTO:Massachusetts
+A: Michigan
+	Q(19.6):GOTO:Michigan
+A: Minnesota
+	Q(19.7):GOTO:Minnesota
+A: Mississippi
+	Q(19.8):GOTO:Mississippi
+A: Show me the next set.
+	Q(19.9):GOTO:Nextnextnextset
+Q(Kentucky): Chiquelin, 323 S.W.2d 583 (1959) (stating that § 383.080 provides that prior liens shall be superior to a distress warrant or attachment, but that it ""does not say that it shall prevail against, or be superior to, the landlord's lien for rent,"" since a distress warrant is only a means of enforcing the lien, which is independent of such enforcement. In effect, the court reasoned, the statute holds that liens in existence before property is placed on the premises will prevail against the remedy itself).
+Q(Louisiana): Henry, 614 So.2d 853 (1993) (9:4770 subordinates rights of lessors to rights of SLs with perfected security interests).
+Q(Maine): No statutory landlord lien in this state - Chabot, 93 Me. 339 (1889) ](Regarding a previous statute whereby buildings placed on land of another are subject to a lien for rent: lien attaches when building placed on land, covers subsequentrent, and has priority over mortgage existing when building placed on land).
+Q(Maryland): Universal CIT Credit, 246Md. 380 (1967) (interpreting common law distress law pre-1966, but stating that under the revised distraint statutes, effective in 1966, the prior existing SL interest would be explicitly preferred over LL distress claim.)
+Q(Massachusetts): No statutory landlord lien in this state - Clabburn, 245 Mass. 47 (1923) (LLs had no lien for their overdue rent on the property of their tenant).
+Q(Michigan): No statutory landlord lien in this state - Kresge, 270 Mich. 218 (1935) (finding that LL has an ""equitable lien"" on rent owed by sublessee in case of insolvency of lessee, which is ""paramount to the claims of lessee's creditors"").
+Q(Minnesota): Loretto, 214 Minn 39 (1943) ("in absence of contract or statute, a LL has no lien upon property of his tenant as security for rent").
+Q(Mississippi): (1)Bender, 636 So.2d 385 (1994) ("in order for the LL to enforce his statutorily created lien on the tenant's personal property they must follow the attachment for rents statutes" i.e. §§ 89-7-55 to 89-7-125); (2) Mullen ("it appears the [LL] lien attaches at the time the goods are placed on the property").
+Q(Nextnextnextset): Click on the relevant state.
+A: Missouri
+	Q(28.1):GOTO:Missouri
+A: Montana
+	Q(28.2):GOTO:Montana
+A: Nebraska
+	Q(28.3):GOTO:Nebraska
+A: Nevada
+	Q(28.4):GOTO:Nevada
+A: New Hampshire
+	Q(28.5):GOTO:NewHampshire
+A: New Jersey
+	Q(28.6):GOTO:NewJersey
+A: New Mexico
+	Q(28.7):GOTO:NewMexico
+A: New York
+	Q(28.8):GOTO:NewYork
+A: Show me the next set
+	Q(28.9):GOTO:Nextnextnextnextset
+Q(Missouri): No statutory landlord lien in this state - Oliver, 430 S.W.2d 611 (1968) (LL's crop lien was superior where LL took possession of crops with tenant's consent w/out resorting to attachment or distress under § 441.300).
+Q(Montana): No statutory landlord in in this state. No relevant law at the moment, but don't forget to check back.
+Q(Nebraska): Rogers, 86 Neb. 316 (1910) ("in this state a LL has no statutory lien for rent").
+Q(Nevada): Great Basin, 9 B.R. 79 (1981) (finding that 118A.520's abolition of distraint applies only to residential leases, and, after noting the policy differences between residential and commercial distraint, invoking an early English statute (which was part of NV common law, and which gave LLs preference over "general creditors" of tenant) to give commercial LL priority under § 64(a)(5) of Bankruptcy Act. Although the court did not so explain in its opinion, "general creditor" is a term of art, to be distinguished from a "secured creditor."
+Q(NewHampshire): No statutory landlord lien in this state - Standish, 93 N.H. 204 (1944) (accepting concession that there is no statutory right of distraint in NH. and stating "it is doubtful if distress for rent was ever a part of our common law").
+Q(NewJersey): Lerman, 21 A.2d 827 (1941)  (under precursor to § 44-166, ""until LL seizes the chattels, or gives notice of intended sale, the tenant is left with full possession and control of chattels”); see also Appel, 70 N.J. .Super 335 (1961) (LL’s claim for rent becomes lien when distraint actually made)."
+Q(NewMexico): Kuemmerle, 113 N.M. 677 (1992) (priority dispute between LL Lien and security interest in after-acquired inventory: (a) LL Lien attached when property brought on premises, (b) security interest on after-acquired collateral attached when it attached to initial inventory, (c) bank had priority over current inventory since it was delivered to premises after attachment of bank's interest).
+Q(NewYork): No statutory landlord lien in this state - (1) Wilk, 339 N.Y.S.2d 75 (1972) (LL''s common-law lien on a tenant property abolished in New York along with abolition of the right to distress in 1846).(2) Scott, 24 N.Y.S.2d 227 (1941) (corporate LL had no right to retain tenant's goods for unpaid rent, the proper means was an action for rent).
+Q(Nextnextnextnextset): Click on the relevant state.
+A: North Carolina
+	Q(37.1):GOTO:NorthCarolina
+A: North Dakota
+	Q(37.2):GOTO:NorthDakota
+A: Ohio
+	Q(37.3):GOTO:Ohio
+A: Oklahoma
+	Q(37.4):GOTO:Oklahoma
+A: Oregon
+	Q(37.5):GOTO:Oregon
+A: Pennsylvania
+	Q(37.6):GOTO:Pennsylvania
+A: Rhode Island
+	Q(37.7):GOTO:Rhodeisland
+A: South Carolina
+	Q(37.8):GOTO:SouthCarolina
+A: Show me the next set
+	Q(37.9):GOTO:Almostlastset
+Q(NorthCarolia): (1) Hall, 240 N.C. 66 (1954) (English law of distress and sale for nonpayment of rent did not become part of NC law); (2)  Dunham's Music House, 10 N.C. App. 242 (1970) (using UCC to decide priority dispute between SL and LL with consensual LL Lien in equipment).
+Q(NorthDakota): No landlord lien required for this state - Orvik, 636 N.W.2d 664 (2001) (discussing crop-share agreements).
+Q(Ohio): No landlord lien required for this state - Walther, 1987 Ohio App. Lexis 6169 (discussing UCC and consensual LL liens).
+Q(Oklahoma): Chickasaw, 124 Okla. 52 (1926) (Crop lien for rent is superior to crop mortgage made by tenant)
+Q(Oregon): (1) Ashmun, 48 Ore. App. 945 (1980) (LL Lien on hay on leased premises attached when tenants began removing same); (2) Briggs, 287 Ore. 223 (1979) (impliedly holding that SL with prior perfected interest prevails over LL Lien).
+Q(Pennsylvania): Einhorn, 272 F.2d 434 (1959) (LL Lien was superior to security interest in commercial inventory perfected prior to LL obtaining lien by distress under 232).
+Q(Rhodeisland): No landlord lien required for this state. No relevant case law. Check back and see if anything changes!
+Q(SouthCarolina): JM Smith Corp. 341 S.C. 442 (2000) (applying UCC priority rules to hold that SL who perfects interest before LL becomes a "lien creditor" within UCC-9 through making a distress levy, and as such has priority over the LL).
+Q(Almostlastset): Click on the relevant state.
+A: South Dakota
+	Q(46.1):GOTO:SouthDakota
+A: Tennessee
+	Q(46.2):GOTO:Tennessee
+A: Texas
+	Q(46.3):GOTO:Texas
+A: Utah
+	Q(46.4):GOTO:Utah
+A: Vermont
+	Q(46.5):GOTO:Vermont
+A: Virginia
+	Q(46.6):GOTO:Virginia
+A:Show me the next set.
+	Q(46.7):GOTO:Lastset
+Q(SouthDakota): No statutory landlord lien in this state. No relevant case law. Check back to see if anything changes!
+Q(Tennessee): No landlord lien required for this state - Hardeman, 19 Tenn. 398 (1838) (discussing crop liens).
+Q(Texas): FDIC, 743 S.W.2d 722 (1988) (for lien purposes, § 54.021 divides a multi-year lease contract into a series of yearly contracts); ("At the beginning of each contract year, if a UCC filing statement has been filed during the previous year, [the security interest] becomes superior to the LL's lien").
+Q(Utah): Butters, 917 P.2d 87 (1996) (noting that contractual LL Liens are not bound by the procedural and other requirements for enforcing the statutory lien, and that such contractual liens are security interests under the UCC).
+Q(Vermont): No statutory landlord lien in this state - (1) M.A.P.P. Inc., 26 B.R. 391 (1983) (dismissing LL's claim that LL had distress lien or security interest in debtor-tenant's property for unpaid rent, noting that it could find no VT case invoking such a lien, and that VT provides a statutory remedy for rent in arrears in § 4773); (2) Snow, 86 Vt. 58 (1912) ("we have no landlord's lien in this State").
+Q(Virginia): Piedmont, 28 Va. Cir. 82 (1992) ("it is certainly clear that a LL has a LL's lien for unpaid rent on personal property pursuant to s.55-227 et seq")
+Q(Lastset): Click on the relevant state.
+A: Washington
+	Q(53.1):GOTO:Washington
+A: West Virginia
+	Q(53.2):GOTO:Westvirginia
+A: Wisconsin
+	Q(53.3):GOTO:Wisconsin
+A: Wyoming
+	Q(53.4):GOTO:Wyoming
+A: Washington D.C.
+	Q(53.5):GOTO:WashingtonDC
+Q(Washington): Paris American, 52 Wn. App. 434 (1988) (LL Lien for 2 month's rent had priority in tenant's tanning equipment over SL who perfected security interest in the equipment by filing financing statement 3 months after tenancy began, although LL Lien expired since LL did not follow statutory procedures and file action to foreclose lien within 2 month period).
+Q(Westvirginia): Hodges, 120 W.Va. 181 (1938) (under the statute authorizing distress for rent if an outside lien attaches to the property while on the leased premises, the property shall nonetheless be liable to distress, but not for more than one year's rent).
+Q(Wisconsin): No statutory landlord lien in this state - River Valley, 154 Wis.2d 442 (1990) (under § 704.5, LL's Lien on tenant's abandoned property had priority over bank's secured interest in the same).
+Q(Wyoming): Sheridan, 848 P.2d 811 (1993) (holding that § 29-7-101, see following, is unambiguous and does not provide LL Lien on tenant property for past due rent. The court reasoned that if the legislature intended the statute to include a rent lien, it would have resembled § 29-7-301, see following).
+Q(WashingtonDC): (1) Moses, 132 F.2d 16 (1942) (LL Lien attaches the moment the chattels come on premises); Elmira, 135 A.2d 645 (1957) (LL Lien attaches at commencement of tenancy or when goods brought on premises); (2) Munday, 47 A.2d 398 (1946) (LL Lien upon goods on premises can only be displaced by their sale and removal in the ordinary course of business).
+
+
+
+
